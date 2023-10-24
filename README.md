@@ -35,5 +35,9 @@ https://simpleicons.org/
 </br>
 
 <h2 align="center"><b>📼 Github Status</b></h2>
-
-![Jaekyeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujkey&show_icons=true&theme=nord)
+<table align="center" style="border: none;"><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ujkey&show_icons=true&theme=nord&count_private=true&hide_border=true" align="center" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujkey&hide_border=true&layout=compact" align="center" style="width: 100%" />
+</td></tr></table> 
+</br>
