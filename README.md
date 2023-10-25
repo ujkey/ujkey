@@ -15,6 +15,10 @@ https://simpleicons.org/
 -->
 <h2 align="center"><b>🛠 Tech Stack</b></h2>
 <div align="center">
+   <div>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  </div>  
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
@@ -46,3 +50,5 @@ https://simpleicons.org/
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujkey&hide_border=true&layout=compact" align="center" style="width: 100%" />
 </td></tr></table> 
 </br> -->
+
+<br/>
