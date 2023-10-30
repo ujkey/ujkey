@@ -1,19 +1,26 @@
 <div align="center">
 
 ![header](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=50&duration=1&pause=997&color=6994CDEE&vCenter=true&repeat=false&random=false&width=525&height=100&lines=Welcom+to+Jaekyeong's+Github!)
-  
+
+
+<br/>
+
+<h3 align="center">Skills</h3>
+<p herf="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue&perline=5"/>
+</p>
+
+![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=ujkey&layout=compact&theme=dark) 
+
 </div>
 
-</br></br>
-
-<!-- <h2 align="center"> 🎤 Introduction </h2>
-<div align="center"></div> -->
+<br/>
 
 <!-- 
 [icon reference]
 https://simpleicons.org/
 -->
-<h2 align="center"><b>🛠 Tech Stack</b></h2>
+<!-- 
 <div align="center">
    <div>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -41,6 +48,7 @@ https://simpleicons.org/
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>  
   </div>
 </div>
+-->
 
 
 <!-- <h2 align="center"><b>📼 Github Status</b></h2>
@@ -50,5 +58,3 @@ https://simpleicons.org/
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujkey&hide_border=true&layout=compact" align="center" style="width: 100%" />
 </td></tr></table> 
 </br> -->
-
-<br/>
